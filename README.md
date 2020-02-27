@@ -1,7 +1,7 @@
 # freemarket_sample_67b
 - フリマアプリ「メルカリ」のクローンサイト。
 - ER図 
-- https://gyazo.com/03c1121bcc4b524cda192e6d3ef40dff
+![F2B210DF-CF8E-4A4E-849D-DDB93E661BA5](https://user-images.githubusercontent.com/59057488/75450290-dc665980-59b1-11ea-98d3-3a825f07c8c3.jpeg)
 - 本番環境にデプロイ
 - 商品出品ページの実装
 - 商品出品機能
