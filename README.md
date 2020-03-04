@@ -1,12 +1,6 @@
 # freemarket_sample_67b
 - フリマアプリ「メルカリ」のクローンサイト。
 - ER図 
-![F2B210DF-CF8E-4A4E-849D-DDB93E661BA5](https://user-images.githubusercontent.com/59057488/75450290-dc665980-59b1-11ea-98d3-3a825f07c8c3.jpeg)
-![54AC681C-081C-4BC4-8C50-946A2AC52E0C_1_105_c](https://user-images.githubusercontent.com/59057488/75450401-15063300-59b2-11ea-9c1d-bc69a1a3606f.jpeg)
-![68C72DDD-9ACD-4D0B-80AA-36184CB34547_1_105_c](https://user-images.githubusercontent.com/59057488/75450406-18012380-59b2-11ea-90d9-10f42ff7c699.jpeg)
-![22F47B82-7181-40E8-84F6-9E5DE6638323_4_5005_c](https://user-images.githubusercontent.com/59057488/75450588-74fcd980-59b2-11ea-839a-ef4d40faa6bc.jpeg)
-![8F0376C6-23BC-4D35-83E2-3041330A3022_4_5005_c](https://user-images.githubusercontent.com/59057488/75450779-c73dfa80-59b2-11ea-84a9-94cf27d98d8c.jpeg)
-![F4869A3D-FD8A-47DF-BA33-562B7A35A4ED_1_105_c](https://user-images.githubusercontent.com/59057488/75450890-f5bbd580-59b2-11ea-9caf-08586b320f45.jpeg)
 - 本番環境にデプロイ
 - 商品出品ページの実装
 - 商品出品機能
@@ -25,7 +19,12 @@
 - 商品購入機能
 - ユーザー新規登録/ログインページ
 - トップページ
-
+![F2B210DF-CF8E-4A4E-849D-DDB93E661BA5](https://user-images.githubusercontent.com/59057488/75450290-dc665980-59b1-11ea-98d3-3a825f07c8c3.jpeg)
+![54AC681C-081C-4BC4-8C50-946A2AC52E0C_1_105_c](https://user-images.githubusercontent.com/59057488/75450401-15063300-59b2-11ea-9c1d-bc69a1a3606f.jpeg)
+![68C72DDD-9ACD-4D0B-80AA-36184CB34547_1_105_c](https://user-images.githubusercontent.com/59057488/75450406-18012380-59b2-11ea-90d9-10f42ff7c699.jpeg)
+![22F47B82-7181-40E8-84F6-9E5DE6638323_4_5005_c](https://user-images.githubusercontent.com/59057488/75450588-74fcd980-59b2-11ea-839a-ef4d40faa6bc.jpeg)
+![8F0376C6-23BC-4D35-83E2-3041330A3022_4_5005_c](https://user-images.githubusercontent.com/59057488/75450779-c73dfa80-59b2-11ea-84a9-94cf27d98d8c.jpeg)
+![F4869A3D-FD8A-47DF-BA33-562B7A35A4ED_1_105_c](https://user-images.githubusercontent.com/59057488/75450890-f5bbd580-59b2-11ea-9caf-08586b320f45.jpeg)
 
 
 ## commentsテーブル
